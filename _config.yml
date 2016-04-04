@@ -1,0 +1,28 @@
+name: 'Bartlett & Herrington, PC'
+favicon: null
+layout_spectrum: 0.866252338513732
+typography_spectrum: 0.4133083978667855
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.02939551416784525
+  lightness: 0.9870657415594906
+  saturation: 0.7097464837133884
+  rhythmicContrast: 0.7405162884388119
+purpose: []
